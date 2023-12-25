@@ -9,7 +9,7 @@ public class MyBestObject
 
     private async Task InitializeAsync()
     {
-        //
+        //diligently initializing
 
         await Task.Delay(100);
     }
